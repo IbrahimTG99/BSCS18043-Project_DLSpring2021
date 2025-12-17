@@ -1,0 +1,25 @@
+# BSCS18043-Project_DLSpring2021
+This repository contains code and results for the Course Project by Deep Learning Spring 2021 course offered at Information Technology University, Lahore, Pakistan. This repository is only for learning purposes and is not intended to be used for commercial purposes.
+# Dataset
+Wheat Dataset taken from Kaggle available [here](https://www.kaggle.com/c/global-wheat-detection/data)
+# Models
+All trained models are available in the [Checkpoints folder](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/tree/main/Checkpoints)
+# Input
+![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/main/images/ad3fea21b_inp.jpg)
+![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/main/images/b2de96e22_inp.jpg)
+![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/main/images/b77e8c906_inp.jpg)
+# Output
+![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/main/images/ad3fea21b.jpg)
+![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/main/images/b2de96e22.jpg)
+![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/main/images/b77e8c906.jpg)
+# Evaluation
+## F1 curve
+![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/main/images/F1_curve.png)
+## P curve
+![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/main/images/P_curve.png)
+## R curve
+![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/main/images/R_curve.png)
+## PR curve
+![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/main/images/PR_curve.png)
+## Confusion Matrix
+![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/main/images/confusion_matrix.png)
