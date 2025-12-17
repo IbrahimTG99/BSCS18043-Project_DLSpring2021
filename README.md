@@ -5,21 +5,25 @@ Wheat Dataset taken from Kaggle available [here](https://www.kaggle.com/c/global
 # Models
 All trained models are available in the [Checkpoints folder](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/tree/master/Checkpoints)
 # Input
-![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/ad3fea21b_inp.jpg)
-![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/b2de96e22_inp.jpg)
-![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/b77e8c906_inp.jpg)
+<img src="https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/ad3fea21b_inp.jpg" width="400">
+<img src="https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/b2de96e22_inp.jpg" width="400">
+<img src="https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/b77e8c906_inp.jpg" width="400">
 # Output
-![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/ad3fea21b.jpg)
-![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/b2de96e22.jpg)
-![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/b77e8c906.jpg)
+<img src="https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/ad3fea21b.jpg" width="400">
+<img src="https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/b2de96e22.jpg" width="400">
+<img src="https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/b77e8c906.jpg" width="400">
 # Evaluation
 ## F1 curve
-![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/F1_curve.png)
+<img src="https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/F1_curve.png" width="500">
+
 ## P curve
-![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/P_curve.png)
+<img src="https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/P_curve.png" width="500">
+
 ## R curve
-![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/R_curve.png)
+<img src="https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/R_curve.png" width="500">
+
 ## PR curve
-![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/PR_curve.png)
+<img src="https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/PR_curve.png" width="500">
+
 ## Confusion Matrix
-![img](https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/confusion_matrix.png)
+<img src="https://github.com/IbrahimTG99/BSCS18043-Project_DLSpring2021/blob/master/images/confusion_matrix.png" width="500">
